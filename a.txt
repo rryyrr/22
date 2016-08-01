@@ -8,3 +8,4 @@ dev 0
 tset
 dev 222
 hello github001
+server
